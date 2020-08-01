@@ -1,0 +1,83 @@
+
+/*====================================
+ Free To Use For Personal And Commercial Usage
+Author: http://binarytheme.com
+ License: Open source - MIT
+ Please visit http://opensource.org/licenses/MIT for more Full Deatils
+ Share Us if You Like Us and Enjoy Our Codes For Free Always.
+======================================*/
+
+
+/*=======================================
+    GENERAL STYLES
+==================================================*/
+body {
+   background:#DBDBDB;
+          font-family:'Open Sans', sans-serif;
+    font-size:14px;
+}
+
+.nav a {
+    color:#ffffff !important;
+}
+.navbar-header a {
+    color:#ffffff !important;
+    padding-right:100px;
+}
+
+.text-center {
+    text-align:center;
+}
+
+.top-pad {
+    padding-top:20px;
+}
+.top-margin {
+    margin-top:20px;
+}
+.top-margin-low {
+    margin-top:30px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Open Sans', sans-serif;
+}
+
+.head-main {
+    font-size:100px !important;
+    font-weight:900!important;
+    color:#C0C028!important;
+}
+.color-green {
+    color:#22D58D;
+}
+.color-red {
+    color:#FF0066;
+}
+p {
+    font-weight:800;
+    line-height:29px;
+    padding-bottom:20px;
+}
+
+.margin-bot {
+    margin-bottom:50px;
+}
+.footer-section {
+    background-color:#000;
+    color:#fff;
+    min-height:40px;
+    text-align:right;
+    padding-right:50px;
+    vertical-align:middle;
+    padding-top:10px;
+}
+.jumbotron a {
+    margin-right:10px;
+    color:#00c2ff;
+    text-decoration:none;
+    font-size:18px;
+}
+.font-big
+{
+font-size:35px;
+ }
